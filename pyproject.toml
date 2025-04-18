@@ -7,11 +7,11 @@ authors = [
 ]
 dependencies = [
     "vtk>=9.3.1",
-    "anthropic",
+    "anthropic>=0.22.0",
     "openai>=1.0.0",
     "importlib_resources>=5.0.0",
 ]
-requires-python = ">=3.8"
+requires-python = ">=3.10"
 readme = "README.md"
 license = {text = "MIT"}
 
